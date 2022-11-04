@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0807699e-a6be-4096-8a5a-0f2c924db634" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DownBoockshelf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MidBoockshelf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UpBoockshelf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bookcase.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DownBoockshelf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DownBookshelf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MidBoockshelf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MidBookshelf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UpBoockshelf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UpBookshelf.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
