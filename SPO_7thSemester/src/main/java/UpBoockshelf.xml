@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bookshelf number="3">
+    <book title="Around the world in 80 days">
+        <intro int-pages="9"/>
+        <chapter title="London" ch-pages="18"/>
+        <chapter title="France" ch-pages="23"/>
+        <chapter title="Egypt" ch-pages="7"/>
+        <chapter title="India" ch-pages="102"/>
+        <chapter title="China" ch-pages="46"/>
+        <chapter title="America" ch-pages="23"/>
+        <chapter title="London" ch-pages="24"/>
+        <pages>243</pages>
+    </book>
+    <book title="Russian tales">
+        <intro int-pages="3"/>
+        <chapter title="Kolobok" ch-pages="9"/>
+        <chapter title="Morozko" ch-pages="17"/>
+        <chapter title="The frog-princes" ch-pages="23"/>
+        <pages>49</pages>
+    </book>
+    <book title="German tales">
+        <intro int-pages="3"/>
+        <chapter title="Cunning tailor" ch-pages="12"/>
+        <chapter title="The sleeping pretty" ch-pages="31"/>
+        <pages>43</pages>
+    </book>
+</bookshelf>

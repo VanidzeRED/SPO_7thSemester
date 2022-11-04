@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bookshelf number="1">
+    <book title="Moby dick">
+        <intro int-pages="5"/>
+        <chapter title="The ship" ch-pages="12"/>
+        <chapter title="The whale" ch-pages="5"/>
+        <chapter title="The crash" ch-pages="18"/>
+        <pages>35</pages>
+    </book>
+    <book title="War and Peace">
+        <intro int-pages="24"/>
+        <chapter title="St. Petersburg" ch-pages="56"/>
+        <chapter title="War" ch-pages="108"/>
+        <chapter title="Peace" ch-pages="45"/>
+        <chapter title="Oak tree" ch-pages="69"/>
+        <chapter title="All died" ch-pages="14"/>
+        <pages>292</pages>
+    </book>
+</bookshelf>

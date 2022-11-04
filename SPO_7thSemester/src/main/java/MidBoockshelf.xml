@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bookshelf number="2">
+    <book title="God's comedy">
+        <intro int-pages="1"/>
+        <chapter title="Hell" ch-pages="33"/>
+        <chapter title="Purgatory" ch-pages="33"/>
+        <chapter title="Heaven" ch-pages="33"/>
+        <pages>99</pages>
+    </book>
+    <book title="Theoretical physics">
+        <intro int-pages="3"/>
+        <chapter title="Mechanic" ch-pages="24"/>
+        <chapter title="Electricity" ch-pages="65"/>
+        <chapter title="Thermodynamics" ch-pages="47"/>
+        <chapter title="Atomic physics" ch-pages="12"/>
+        <chapter title="Quantum physics" ch-pages="34"/>
+        <chapter title="Astrophysics" ch-pages="17"/>
+        <chapter title="Biophysics" ch-pages="8"/>
+        <pages>207</pages>
+    </book>
+    <book title="Complete set of works Lenin">
+        <intro int-pages="13"/>
+        <chapter title="Tom 1" ch-pages="45"/>
+        <chapter title="Tom 2" ch-pages="69"/>
+        <chapter title="Tom 3" ch-pages="75"/>
+        <chapter title="Tom 4" ch-pages="46"/>
+        <pages>100</pages>
+    </book>
+</bookshelf>
